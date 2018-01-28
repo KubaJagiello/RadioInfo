@@ -1,0 +1,11 @@
+<scheduledepisode>
+    <episodeid>420</episodeid>
+    <title>VeryNiceProgram</title>
+    <description>SpamKappa</description>
+    <starttimeutc>2017-12-06T23:00:00Z</starttimeutc>
+    <endtimeutc>2017-12-06T23:02:00Z</endtimeutc>
+    <program id="123" name="Kappa"/>
+    <channel id="164" name="P3"/>
+    <imageurl>http://static-cdn.sr.se/sida/images/4540/3634468_2048_1152.jpg?preset=api-default-square</imageurl>
+    <imageurltemplate>http://static-cdn.sr.se/sida/images/4540/3634468_2048_1152.jpg</imageurltemplate>
+</scheduledepisode>

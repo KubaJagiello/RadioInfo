@@ -1,0 +1,15 @@
+<channels>
+    <channel id="420" name="EXDE">
+        <image>http://static-cdn.sr.se/sida/images/132/2186745_512_512.jpg</image>
+        <color>31a1bd</color>
+        <tagline>den talade kanalen</tagline>
+        <siteurl>http://sverigesradio.se/p1</siteurl>
+        <liveaudio id="1337">
+            <url>http://sverigesradio.se/topsy/direkt/132.mp3</url>
+            <statkey>webbradio/start/direkt/132_P1</statkey>
+        </liveaudio>
+        <scheduleurl>http://api.sr.se/api/v2/scheduledepisodes?channelid=132</scheduleurl>
+        <channeltype>Rikskanal</channeltype>
+        <xmltvid>p1.sr.se</xmltvid>
+    </channel>
+</channels>
