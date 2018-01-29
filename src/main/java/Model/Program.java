@@ -5,7 +5,7 @@ import java.util.HashMap;
 /**
  * Stores information of parsed Program in form of info.
  */
-public class    Program {
+public class Program {
 
     private HashMap<String, String> info;
 

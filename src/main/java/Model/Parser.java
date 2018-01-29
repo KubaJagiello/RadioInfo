@@ -92,7 +92,7 @@ public class Parser {
             formatedDateTime = localDateTime.plusHours(24).format(formatter);
             inputStream.setUpStreamForPrograms(channel.getInfo(ID), formatedDateTime);
             parsePrograms(channel, inputStream.getInputForProgram());
-            formatedDateTime = localDateTime.minusHours(24).format(formatter);
+            formatedDateTime = localDateTime.minusHours(48).format(formatter);
             inputStream.setUpStreamForPrograms(channel.getInfo(ID), formatedDateTime);
             parsePrograms(channel, inputStream.getInputForProgram());
         }

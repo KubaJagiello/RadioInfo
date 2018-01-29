@@ -19,6 +19,8 @@ public class Information implements ParseInfo {
 
     /**
      * Creates new InputStream and sends that to new Parser.
+     * @throws LoadingXMLException exception
+     * @throws IOException exception
      */
     public Information() throws LoadingXMLException, IOException {
         InputStreamer input = new InputStreamer();
