@@ -2,7 +2,7 @@
 
 To use program clone this repo and go inside project folder:
 ```sh
-git clone https://git.cs.umu.se/dv16jjo/RadioInfo.git
+git clone https://github.com/KubaJagiello/RadioInfo.git
 cd RadioInfo
 ```
 Create jar file with Maven by writing:
